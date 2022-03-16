@@ -1,4 +1,4 @@
-## Olá eu sou o Jean Oliveira, desenvolvedor full stack!
+##
 
 <div align="center">
   <a href="https://github.com/JeanOliveiraDev">
